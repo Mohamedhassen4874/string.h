@@ -1,18 +1,14 @@
-#include <stdio.h>
-#include <stdlib.h>
-
-#include"_string.h"
-
+#include "_string.h"
 
 int main()
 {
-    char a[]="Hello world";
-    char b[]="Ahmed ali";
-
-    printf("%d\n",_strlen("MMM"));
-   // printf("%d\n",_strlen(b));
-   // printf("%d\n",_strcmp(a,b));
-
-    printf("Hello world!\n");
-    return 0;
+    /*
+    A code to see if strcat is working or not
+    char src[20] = "Amr";
+    char dest[50] = "Hi, I'm ";
+    _strcat(dest, src);
+    
+    printf("%s\n", dest);
+    */
+    return (0);
 }
